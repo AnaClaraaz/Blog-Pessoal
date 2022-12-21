@@ -1,3 +1,7 @@
 .titulo{
     font-weight: bold;
  }
+ .fundo{
+    background-color: #370e41;
+    height: 60px;
+}
